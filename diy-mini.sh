@@ -35,7 +35,7 @@ function git_sparse_clone() {
 # git clone --depth=1 https://github.com/ZHOUJUNX/luci-app-autoreboot package/luci-app-autoreboot
 git clone --depth=1 https://github.com/zxl78585/luci-app-autoreboot package/luci-app-autoreboot
 git clone --depth=1 https://github.com/gw826943555/openwrt-cpufreq package/luci-app-cpufreq
-git clone --depth=1 https://github.com/morouter/luci-app-pm package/luci-app-pm
+# git clone --depth=1 https://github.com/morouter/luci-app-pm package/luci-app-pm
 
 # 科学上网插件
 # git clone --depth=1 -b main https://github.com/fw876/helloworld package/luci-app-ssr-plus
