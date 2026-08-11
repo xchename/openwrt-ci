@@ -34,6 +34,7 @@ function git_sparse_clone() {
 # git_sparse_clone master https://github.com/syb999/openwrt-19.07.1 package/network/services/msd_lite
 # git clone --depth=1 https://github.com/ZHOUJUNX/luci-app-autoreboot package/luci-app-autoreboot
 git clone --depth=1 https://github.com/zxl78585/luci-app-autoreboot package/luci-app-autoreboot
+git clone --depth=1 https://github.com/gw826943555/openwrt-cpufreq package/luci-app-cpufreq
 
 # 科学上网插件
 # git clone --depth=1 -b main https://github.com/fw876/helloworld package/luci-app-ssr-plus
